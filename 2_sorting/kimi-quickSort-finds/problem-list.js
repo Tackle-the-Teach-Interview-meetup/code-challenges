@@ -1,14 +1,7 @@
-//quick sort problem
-//Do what you know
+function quickSort(array) {
 
 
-  function partition(arr) {
+}
 
-
-      return sortedArr;
-
-  }
-
- partition([1,3,2,6]);
-
-
+//test array:
+//[1,4,8,345,123,43,31];
